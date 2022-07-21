@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">INFOmanage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Ag">ADMINISTRATIVE_General</string>
+    <string name="Lg">LEARNING_General</string>
+    <string name="WORK">WORK</string>
+
+</resources>
